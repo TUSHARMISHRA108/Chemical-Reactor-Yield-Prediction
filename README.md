@@ -254,45 +254,6 @@ The submission was verified to match the required competition format.
 * Matplotlib
 * Jupyter Notebook / Google Colab
 
----
-
-## Project Structure
-
-```text
-Chemical-Reactor-Yield-Prediction/
-│
-├── data/
-├── notebooks/
-│   └── Log_X.ipynb
-├── images/
-├── submission/
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
-
----
-
-## Reproducibility
-
-To reproduce the project:
-
-```bash
-git clone <your-repository-url>
-cd Chemical-Reactor-Yield-Prediction
-pip install -r requirements.txt
-```
-
-Then open:
-
-```text
-notebooks/Log_X.ipynb
-```
-
-and execute the notebook sequentially.
-
----
-
 ## Author
 
 **Tushar Kumar Mishra**
